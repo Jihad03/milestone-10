@@ -1,0 +1,42 @@
+#about {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.half-width {
+  width: 50%;
+}
+
+.about-section-img {
+  margin-right: 50px;
+}
+
+.about-section-img img {
+  width: 100%;
+}
+
+.about-section-content {
+  margin-left: 50px;
+}
+
+.about-section-content h2,
+h3 {
+  text-transform: uppercase;
+}
+
+.about-section-content h2 {
+  font-size: 50px;
+}
+
+.about-section-content h3 {
+  font-size: 35px;
+  line-height: 50px;
+}
+
+.about-section-content p {
+  margin-top: 20px;
+  font-size: 15px;
+  line-height: 30px;
+}

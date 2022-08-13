@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Psycho Training",
+    "img": "https://i.ibb.co/HrFW0pY/programs1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Self Defense",
+    "img": "https://i.ibb.co/dDBnp1K/programs2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Advance Gym",
+    "img": "https://i.ibb.co/941Wyvr/programs3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Cardio Training",
+    "img": "https://i.ibb.co/S3MBqz0/programs4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Strength Training",
+    "img": "https://i.ibb.co/55twmgF/programs5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Psycho Training",
+    "img": "https://i.ibb.co/R2pcH3V/programs6.jpg"
+  }
+]

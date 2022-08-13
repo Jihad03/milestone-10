@@ -1,0 +1,39 @@
+#hero-container {
+  background-image: url(../../../imgs/hero-bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#hero {
+  height: 91vh;
+  display: flex;
+  text-align: center;
+  background-color: rgba(36, 36, 36, 0.7);
+}
+
+.hero-content {
+  width: 90%;
+  margin: auto;
+  color: white;
+  padding: 0 23%;
+}
+
+.hero-content h1 {
+  font-size: 65px;
+  text-transform: uppercase;
+}
+
+.hero-content p {
+  margin-top: 10px;
+  font-size: 15px;
+  line-height: 30px;
+}
+
+.hero-btn {
+  font-size: 17px;
+  text-transform: uppercase;
+  margin-top: 25px;
+  padding: 18px 40px;
+  border: none;
+  background-color: #fcd842;
+  cursor: pointer;
+}

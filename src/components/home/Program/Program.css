@@ -1,0 +1,34 @@
+.program {
+  width: 30%;
+  height: 325px;
+  margin-bottom: 100px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.program-img-container {
+  height: 100px;
+}
+
+.program img {
+  width: 100%;
+}
+
+.program-title {
+  text-align: center;
+  background: #fcd842;
+  padding: 20px;
+  border-radius: 0 0 10px 10px;
+  position: relative;
+  top: 330px;
+  cursor: pointer;
+}
+
+.program-title:hover {
+  opacity: 0.8;
+}
+
+.program-container a {
+  text-decoration: none;
+  color: #242424;
+}
